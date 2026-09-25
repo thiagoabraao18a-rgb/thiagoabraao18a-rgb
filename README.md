@@ -4,14 +4,14 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" target="_blank">
   </a>
-  <a href="https://instagram.com" target="_blank">
+ <!-- <a href="https://instagram.com" target="_blank">
     <img src="https://shields.io" target="_blank">
   </a>
 </p>
 
-### 🛠️ Minhas Habilidades
+<!--### 🛠️ Minhas Habilidades
 
-<p>
+<!--<p>
   <img src="https://shields.io">
   <img src="https://shields.io">
   <img src="https://shields.io">
@@ -35,6 +35,7 @@
   <imag height="180em" src="https://github-readme-starts.vertical.app/api?username=thiagoabraao18a-rgb&show_icons=true&theme=dark&include_all_commits=true&count_pricate=true"/>
   <imag height="180em" src="https://github-readme-starts.vertical.app/api/top-langs/?username=thiagoabraao18a-rgb&layout=campact&langes_count=16&theme=dracula"/>
 </div>
+--!>
 
 
 
