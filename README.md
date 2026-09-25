@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou o Thiago 👋</h1>
-<p align="center">Uma breve introdução sobre você, sua paixão por tecnologia ou objetivo profissional.</p>
+<p align="center">"O talento não é nada sem a disciplina!"
+  </p>
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" target="_blank">
